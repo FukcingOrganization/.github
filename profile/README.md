@@ -1,7 +1,7 @@
-# We Fukc
+# Stick Fight
 Hi there, my name is Bora Ozenbirkan and I'm the creator of this project. Initially, I started to make this blockchain game as a **fun experiment** but after a while, the idea evolved into something meaningful and exciting. Then I decided to change its name ****to Stick Fight, instead of We Fukc.**** Because it was going to be a serious project. 
 
-**Here some useful links:**
+**Here are some useful links:**
 - **[Demo](https://fukcingorganization.github.io/Demo/)**: You can connect your wallet and play the on web!
 - **[Demo Video](https://youtu.be/ziFFLVKjOFQ)**: If you don't own a wallet, you just watch the gameplay!
 - **[Contracts](https://github.com/FukcingOrganization/Contracts-Private/tree/main)**: 11 Smart contract with +6200 lines of code that makes the game fully on-chain.
@@ -35,7 +35,7 @@ Creating a boss, naming it, pointing it as a candidate, and electing a boss for 
 ### The Second Evolution
 Then I started to think about its social meaning. How people will decide who to choose, why. **Discussions** about the situation (war, inflation, economy, crypto, etc.) **were the key point** of the mechanism.
 
-I thought if we will discuss it, we should **meet at pubs, cafes, squares, and parks, and discuss it face to face, get in touch with each other.** It can be a reason for going outside, meeting with people, knowing new faces, hearing new ideas, **learning new things, teach new things!**
+I thought if we will discuss it, we should **meet at pubs, cafes, squares, and parks, and discuss it face to face, get in touch with each other.** It can be a reason for going outside, meeting with people, knowing new faces, hearing new ideas, **learning new things, teaching new things!**
 
 It would be awesome! We could bring new people who don't know anything about crypto and we could teach them. They can give us feedback as an outsider to the industry. All of these interactions would be great!
 
